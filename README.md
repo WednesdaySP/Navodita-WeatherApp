@@ -1,16 +1,6 @@
 # weatherapp
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![w2](https://github.com/WednesdaySP/Navodita-WeatherApp/assets/122176467/54dcc188-7522-4691-b63d-61353e188822)
+![w3](https://github.com/WednesdaySP/Navodita-WeatherApp/assets/122176467/21461341-b0eb-45e2-bf7f-e3ddf9aa8b9f)
+![w1](https://github.com/WednesdaySP/Navodita-WeatherApp/assets/122176467/134fd013-9f14-4508-a777-f0171cb5ce63)
+![w4](https://github.com/WednesdaySP/Navodita-WeatherApp/assets/122176467/8140ce81-286a-4089-9ffd-8d30cc89b218)
