@@ -77,10 +77,7 @@ This app follows the **Bloc Pattern**:
 ```
 lib/
 ├── blocs/                  # Bloc files (events, states, blocs)
-├── models/                 # Data models (e.g., weather, location)
-├── repository/             # Weather data fetching logic
-├── screens/                # App screens
-├── widgets/                # Reusable custom widgets
+├── pages/                  # Weather data fetching logic and screens
 └── main.dart               # Main entry point
 ```
 
